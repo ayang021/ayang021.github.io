@@ -41,4 +41,3 @@ nav_order: 6
     .teaching-meta { color:#888; margin:10px 0 8px; font-size:0.92em; }
     .teaching-details ul { margin-bottom:0; }
     </style>
-  </ul>
