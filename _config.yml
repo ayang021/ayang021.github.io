@@ -700,3 +700,6 @@ jsonresume:
   - languages
   - interests
   - references
+
+  include:
+  - google7b422ca51a26d7a3.html 
