@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented my ongoing project at GSU on how AI governance can help create more jobs for people, rather than letting AI simply replace them.
+Presented my ongoing project at GSU on how AI governance can help create more jobs for people, rather than letting AI simply replace them. 
