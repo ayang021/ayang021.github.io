@@ -10,7 +10,7 @@ nav_order: 6
 <div class="teaching-list">
 
 <details class="teaching-card">
-<summary>COMM 4522 — Business Analytics with Python (University of Virginia)</summary>
+<summary>COMM 4522 — Business Analytics with Python (University of Virginia)</summary> 
 <div class="teaching-details">
   <p class="teaching-meta">Teaching Assistant · McIntire School of Commerce, University of Virginia, Charlottesville, VA · January 2025 – May 2025</p>
   <ul>
