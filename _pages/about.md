@@ -31,4 +31,4 @@ Andy is a Ph.D. student at the Center for Digital Innovation & Department of Com
 
 Before Ph.D., Andy conducted tech policy research at think tanks, including the Brookings Institution; he earned his Bachelor's (Statistics + Political Science) and Master's (Business) degrees from the University of Virginia.
 
-He serves as an ad hoc reviewer for leading journals and conferences. He has also served as Teaching Assistant for multiple math/statistics, programming, and business analytics courses at UVA.
+He serves as an ad hoc reviewer for leading journals and conferences. He has also served as Teaching Assistant for multiple math/statistics, programming, and business analytics courses at UVA. 
