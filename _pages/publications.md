@@ -20,7 +20,7 @@ nav_order: 2
 <div style="border-left: 3px solid #28a745; padding-left: 20px; margin: 20px 0;">
 <h4>How LLM Outages Reshape the Global Cyberdefense Landscape <span style="background-color:#28a745;color:#fff;padding:2px 10px;border-radius:10px;font-size:0.7em;vertical-align:middle;">Ongoing Project</span></h4>
 <p style="color:#777;">Presented at Georgia Tech &middot; May 4, 2026</p>
-<p>This project explores how large-scale outages of large language models re-evaluate the quality of firm-level cyberdefense personnel hiring and reshape commerical cyberdefense landscape globally.</p>
+<p>This project explores how large-scale outages of large language models re-evaluate the quality of firm-level cyberdefense personnel hiring and reshape commerical cyberdefense landscape globally.</p> 
 </div>
 
 <h2>Computational Social Science</h2>
