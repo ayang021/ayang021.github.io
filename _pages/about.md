@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Andy (Hongjia) Yang is a Ph.D. student at the Robinson College of Business, Georgia State University, advised by Professor [Arun Rai](https://www.arunrai.net/). His research centers around the governance of emerging technologies and its societal impact, particularly on labor market.
+Andy (Hongjia) Yang is a Ph.D. student at the Robinson College of Business, Georgia State University, advised by Professor [Arun Rai](https://www.arunrai.net/). His research centers around AI governance and future of work.
 
 Before Ph.D., Andy conducted tech policy research in leading think tanks, including the Brookings Institution and the Carter Center; he earned his Bachelor's (Statistics + Political Science) and Master's (Business) degrees from the University of Virginia.
 
