@@ -34,10 +34,3 @@ nav_order: 6
 
     </div>
 
-    <style>
-    .teaching-list { display:flex; flex-direction:column; gap:14px; margin-top:10px; }
-    .teaching-card { border:1px solid rgba(128,128,128,0.35); border-radius:10px; padding:16px 20px; background:rgba(128,128,128,0.06); }
-    .teaching-card summary { cursor:pointer; font-weight:600; font-size:1.05em; }
-    .teaching-meta { color:#888; margin:10px 0 8px; font-size:0.92em; }
-    .teaching-details ul { margin-bottom:0; }
-    </style>
