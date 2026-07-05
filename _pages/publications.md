@@ -9,7 +9,7 @@ nav_order: 2
 
 <div class="research-timeline">
 
-  <h2>Tech Policy and Its Societal Impact <span style="background-color:#28a745;color:#fff;padding:2px 10px;border-radius:10px;font-size:0.7em;vertical-align:middle;"> 
+  <h2>Tech Policy and Its Societal Impact <span style="background-color:#28a745;color:#fff;padding:2px 10px;border-radius:10px;font-size:0.7em;vertical-align:middle;">  
 
   <div style="border-left: 3px solid #28a745; padding-left: 20px; margin: 20px 0;">
     <h4>AI Privacy Governance and Job Creation in the Tech Industry</h4>Ongoing Project</span></h4> 
