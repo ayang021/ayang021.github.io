@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Andy (Hongjia) Yang is a Ph.D. student at the Robinson College of Business, Georgia State University, advised by Professor Arun Rai. His research primarily centers around governance of emerging technologies and its societal impact, with primary focus in labor market impacts.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before Ph.D., Andy conducted tech policy research in various leading think tanks, including the Brookings Institution and the Carter Center; he earned his Bachelor (Statistics + Political Science) and Master's (Business) degrees from the University of Virginia.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+He serves as an ad hoc reviewer for leading journals and conferences. He has also served as teaching assistant for multiple math, statistics, and business analytics courses at UVA.
