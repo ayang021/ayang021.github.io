@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Personal
 permalink: /
 subtitle: Center for Digital Innovation, Robinson College of Business, Georgia State University
 
