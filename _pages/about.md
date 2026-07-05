@@ -12,7 +12,7 @@ profile:
     <p>Office 1770, 55 Park Pl NE Atlanta, GA 30303</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page 
 
 announcements:
   enabled: true # includes a list of news items
