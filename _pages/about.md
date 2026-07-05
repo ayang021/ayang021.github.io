@@ -2,7 +2,7 @@
 layout: about
 title: Personal
 permalink: /
-subtitle: Contact: hyang44 [at] gsu [dot] edu
+subtitle: Contact me at hyang44 [at] gsu [dot] edu
 
 profile:
   align: right
