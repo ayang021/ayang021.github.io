@@ -1,31 +1,44 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Teaching experience and course materials.
 nav: true
 nav_order: 6
 ---
 
-**Teaching Assistant**, COMM 4522 Business Analytics with Python (2025 Spring)<br>
-McIntire School of Commerce, University of Virginia, Charlottesville, VA<br>
-January 2025 - Present
+<div class="teaching-list">
 
-- Help the instructor update course materials and assignments in order to equip students with the most popular skills in business analytics using Python.
-- Review assignment answer keys and give feedback to the instructor.
-- Grade assignments and provide detailed comments for students to correct their mistakes.
+<details class="teaching-card">
+<summary>COMM 4522 — Business Analytics with Python (Spring 2025)</summary>
+<div class="teaching-details">
+  <p class="teaching-meta">Teaching Assistant · McIntire School of Commerce, University of Virginia, Charlottesville, VA · January 2025 – Present</p>
+  <ul>
+    <li>Help the instructor update course materials and assignments in order to equip students with the most popular skills in business analytics using Python.</li><li>Review assignment answer keys and give feedback to the instructor.</li><li>Grade assignments and provide detailed comments for students to correct their mistakes.</li>
+  </ul></div></details>
 
-**Teaching Assistant**, GCOM 7520 Data Exploration and Visualization with R (2025 Spring)<br>
-McIntire School of Commerce, University of Virginia, Charlottesville, VA<br>
-December 2024 - Present
+  <details class="teaching-card">
+  <summary>GCOM 7520 — Data Exploration and Visualization with R (Spring 2025)</summary>
+  <div class="teaching-details">
+  <p class="teaching-meta">Teaching Assistant · McIntire School of Commerce, University of Virginia, Charlottesville, VA · December 2024 – Present</p>
+  <ul>
+    <li>Migrate course contents from R Markdown to Quarto to align with evolving industry standards, verifying functionality of all code and packages, and contributing to a seamless transition for students and faculty.</li><li>Collaborate with the instructor in meetings to integrate the latest advancements in Generative AI techniques into course content, enhancing the application of AI in visualizations and data analysis.</li><li>Grade assignments and hold weekly office hours to answer students' questions.</li>
+  </ul></div></details>
 
-- Migrate course contents from R Markdown to Quarto to align with evolving industry standards, verifying functionality of all code and packages, and contributing to a seamless transition for students and faculty.
-- Collaborate with the instructor in meetings to integrate the latest advancements in Generative AI techniques into course content, enhancing the application of AI in visualizations and data analysis.
-- Grade assignments and hold weekly office hours to answer students' questions.
+  <details class="teaching-card">
+  <summary>STAT 4220 — Applied Analytics for Business (Spring 2024)</summary>
+  <div class="teaching-details">
+  <p class="teaching-meta">Teaching Assistant · Department of Statistics, University of Virginia, Charlottesville, VA · January 2024 – May 2024</p>
+  <ul>
+    <li>First undergraduate TA in this course.</li><li>Develop course materials (data analysis exercise and video) and grade assignments.</li></ul></div></details>
 
-**Teaching Assistant**, STAT 4220 Applied Analytics for Business (2024 Spring)<br>
-Department of Statistics, University of Virginia, Charlottesville, VA<br>
-January 2024 - May 2024
+    </div>
 
-- First undergraduate TA in this course.
-- Develop course materials (data analysis exercise and video) and grade assignments. 
+    <style>
+    .teaching-list { display:flex; flex-direction:column; gap:14px; margin-top:10px; }
+    .teaching-card { border:1px solid rgba(128,128,128,0.35); border-radius:10px; padding:16px 20px; background:rgba(128,128,128,0.06); }
+    .teaching-card summary { cursor:pointer; font-weight:600; font-size:1.05em; }
+    .teaching-meta { color:#888; margin:10px 0 8px; font-size:0.92em; }
+    .teaching-details ul { margin-bottom:0; }
+    </style>
+  </ul>
