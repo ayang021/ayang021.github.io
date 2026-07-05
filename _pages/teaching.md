@@ -32,5 +32,4 @@ nav_order: 6
   <ul>
     <li>First undergraduate TA in this course.</li><li>Develop course materials (data analysis exercise and video) and grade assignments.</li></ul></div></details>
 
-    </div>
 
