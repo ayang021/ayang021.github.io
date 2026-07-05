@@ -2,7 +2,7 @@
 layout: about
 title: Personal
 permalink: /
-subtitle: Center for Digital Innovation, Robinson College of Business, Georgia State University
+subtitle: Contact: hyang44 [at] gsu [dot] edu
 
 profile:
   align: right
@@ -25,8 +25,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Andy (Hongjia) Yang is a Ph.D. student at the Robinson College of Business, Georgia State University, advised by Professor [Arun Rai](https://www.arunrai.net/). His research centers around AI governance and future of work.
+Welcome to my personal website! Brief bio:
 
-Before Ph.D., Andy conducted tech policy research in leading think tanks, including the Brookings Institution and the Carter Center; he earned his Bachelor's (Statistics + Political Science) and Master's (Business) degrees from the University of Virginia.
+Andy is a Ph.D. student at the Center for Digital Innovation & Department of Computer Information Systems, Robinson College of Business, Georgia State University; he works under the supervision of Professor [Arun Rai](https://www.arunrai.net/). His research centers around AI governance and future of work.
 
-He serves as an ad hoc reviewer for leading journals and conferences. He has also served as teaching assistant for multiple math, statistics, and business analytics courses at UVA.
+Before Ph.D., Andy conducted tech policy research at think tanks, including the Brookings Institution; he earned his Bachelor's (Statistics + Political Science) and Master's (Business) degrees from the University of Virginia.
+
+He serves as an ad hoc reviewer for leading journals and conferences. He has also served as Teaching Assistant for multiple math, statistics, and business analytics courses at UVA.
