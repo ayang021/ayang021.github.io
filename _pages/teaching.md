@@ -28,4 +28,4 @@ Department of Statistics, University of Virginia, Charlottesville, VA<br>
 January 2024 - May 2024
 
 - First undergraduate TA in this course.
-- Develop course materials (data analysis exercise and video) and grade assignments.
+- Develop course materials (data analysis exercise and video) and grade assignments. 
