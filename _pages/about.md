@@ -29,4 +29,4 @@ Welcome to my personal website! I am a Ph.D. student at the Center for Digital I
 
 Before Ph.D., I gained policy research and consulting experience at leading think tanks like the Brookings Institution; I earned my Bachelor's (Statistics + Political Science) and Master's (Commerce) degrees from the University of Virginia.
 
-I serve as an ad hoc reviewer for leading journals and conferences. I have also served as Teaching Assistant for multiple math/statistics, programming, and business analytics courses.
+I serve as an ad hoc reviewer for leading journals and conferences. I have also served as Teaching Assistant for multiple math/statistics and business analytics courses.
