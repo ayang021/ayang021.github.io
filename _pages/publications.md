@@ -3,8 +3,9 @@ layout: page
 permalink: /publications/
 title: Research
 description: I currently have two research agenda, with primacy focus on the former.
-nav: true
+nav: false # hidden; set to true (and published: true) to restore
 nav_order: 2
+published: false
 ---
 
 <div class="research-timeline">
