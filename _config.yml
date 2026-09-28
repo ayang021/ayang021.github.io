@@ -214,7 +214,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages"]
+include: ["_pages", "google7b422ca51a26d7a3.html"]
 exclude:
   - al-folio-upgrade-report.md
   - bin/
@@ -701,5 +701,3 @@ jsonresume:
   - interests
   - references
 
-  include:
-  - google7b422ca51a26d7a3.html 
