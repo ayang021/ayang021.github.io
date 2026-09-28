@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Personal
+title: Main
 permalink: /
 subtitle: Contact - hyang44 [at] gsu [dot] edu
 
